@@ -47,7 +47,7 @@ app.use(function (err, req, res, next) {
 
 // start app
 app.listen(process.env.PORT || 3517, () => {
-    console.log("listening to port 9000");
+    console.log("listening to port 3517");
 });
 
 
